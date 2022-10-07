@@ -1,0 +1,68 @@
+
+.table { margin-left: auto; font-size: 20px; padding:5px; margin-top: 0px; border: 0px; }
+
+.two { text-decoration:none; color: white; transition: ease-out 0.3s; padding: 5px; opacity: 1.0; }
+
+.one { background-color: #14141f; color: white; font-family: sans-serif; margin-top: 1px; }
+
+.three { font-size: 20px; margin-left: 90px; margin-right: 90px; opacity: 1;}
+
+
+
+
+.container {
+	margin-top: 160px;
+	text-align: center;
+}
+
+.btn {
+
+	padding: 30px 40px;
+	font-size: 40px;
+	font-family: monospace;
+	background-color: #0f1124;
+	border: 1px solid lightblue;
+	transition: ease-out 0.5s;
+	border-radius: 5px;
+	box-shadow:1px 2px 5px black ;
+	opacity: 0.5;
+	color: gray;
+
+ }
+
+ .btn:hover {
+
+ 	color: white;
+ 	background-color:#242a3b;
+ 	animation-name: jaim;
+ 	box-shadow: 1px 2px 5px gray ;
+ 	text-shadow: 1px 1px 5px orange;
+ 	opacity: 1.0;
+ }
+
+body {
+
+	background-color: #11141F;;
+	margin-top: 0px;
+}
+
+
+
+
+.two:hover { 
+
+                background-color: rgb(59, 59, 59);
+                color: orange;
+                box-shadow: 1px 2px 5px whitesmoke;
+                text-shadow: 2px 1px 5px lightpink;
+                border-radius: 5px;
+         }
+
+
+
+
+
+
+
+
+
